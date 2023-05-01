@@ -1,0 +1,108 @@
+
+
+.bod{
+    background-color: #1a1b1d;
+    font-family: 'Abel', sans-serif;
+     font-family: 'Lora', serif;
+     /* font-family: 'Shantell Sans', cursive; */
+     font-size: 20px;
+     overflow-x: hidden;
+     
+}#listi{
+    display: flex;
+    /* justify-content: space-between; */
+    margin-left: 30%;
+    color: black;
+    gap: 5%;
+    color: aliceblue;
+}
+#picha{
+    width: 1200px;
+    height: 580px;
+    margin-bottom: 14%;
+}
+#words{
+    font: 1em sans-serif;
+    font-size: xx-large;
+    margin-top: -30%;
+    margin-left: 51%;
+    color: antiquewhite;
+
+}
+#buhh{
+    border-radius: 15%;
+    padding: 3%;
+    background-color: palevioletred;
+    color: white;
+    margin-bottom: -5%;
+    
+}
+.select{
+   
+    margin-left: 45%;
+    margin-top: 10%;
+    color: aliceblue;
+}
+#liss{
+    margin-left: 45%;
+    gap: 6%;
+    color: aliceblue;
+}
+.imago{
+    display: flex;
+    gap: 6%;
+    height: 200px;
+    width: 800px;
+    margin-bottom: 20%;
+    color: aliceblue;
+}
+#view{
+    margin-left: 41%;
+    color: aliceblue;
+}
+#gym{
+    height: 700px;
+    width: 600px;
+}
+#purp{
+    margin-left: 103%;
+    width: 550px;
+    margin-top: -140%;
+}
+#pico{
+    margin-left: 105%;
+    margin-bottom:-100% ;
+    width: 520px;
+    height: 600px;
+}
+#Shopfy{
+    margin-left: 45%;
+    margin-top: 5%;
+    color: aliceblue;
+}
+#augus{
+    margin-left: 45%;
+    color: aliceblue;
+}
+#many{
+    margin-left: 45%;
+    color: aliceblue;
+}
+#down{
+    width: 1200px;
+    height: 580px;
+}
+.footer{
+    display: flex;
+}
+.footer3{
+    margin-left: 10%;
+}
+.footer2{
+    margin-left: 25%;
+     }
+     .footer{
+      background-color: rgb(67, 65, 65);
+      font-size: medium;
+      color: aliceblue;
+}
